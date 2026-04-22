@@ -1,5 +1,5 @@
 const config = {
-  port: 3000,
+  port: 5000,
   host: 'localhost',
   debug: false,
 };
